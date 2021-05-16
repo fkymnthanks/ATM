@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="OMH:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OMH_jar</output-path>
+    <root id="root">
+      <element id="archive" name="OMH.jar">
+        <element id="module-output" name="OMH" />
+      </element>
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.6" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.6" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+      <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+    </root>
+  </artifact>
+</component>
